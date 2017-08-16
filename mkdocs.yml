@@ -3,3 +3,6 @@ site_name: 个人docs
 pages:
 - [index.md, home]
 - [about.md, about]
+- [product.md, product]
+
+repo_url: https://github.com/PsycheZh/mkProject.git
