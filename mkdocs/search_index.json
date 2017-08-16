@@ -42,7 +42,7 @@
         },
         {
             "location": "/product/",
-            "text": "first\n\n\nsecond",
+            "text": "first\n\n\nsecond\n\n\n\u5168\u56fd\u5927\u5b66\u82f1\u8bed\u56db\u3001\u516d\u7ea7\u8003\u8bd5\u59d4\u5458\u4f1a\u529e\u516c\u5ba4\n2017\u5e748\u670810\u65e5",
             "title": "product"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "location": "/product/#second",
-            "text": "",
+            "text": "\u5168\u56fd\u5927\u5b66\u82f1\u8bed\u56db\u3001\u516d\u7ea7\u8003\u8bd5\u59d4\u5458\u4f1a\u529e\u516c\u5ba4\n2017\u5e748\u670810\u65e5",
             "title": "second"
         }
     ]
