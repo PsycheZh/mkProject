@@ -1,1 +1,5 @@
-site_name: My Docs
+site_name: 个人docs
+
+pages:
+- [index.md, home]
+- [about.me, about]
